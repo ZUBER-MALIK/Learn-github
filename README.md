@@ -1,2 +1,2 @@
-# Learn-github
-learning git and github
+# Learn-git and github
+First time using github
